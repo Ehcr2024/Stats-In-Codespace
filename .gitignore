@@ -2,6 +2,9 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# clickhouse bin
+clickhouse
+
 # Python
 __pycache__/
 *.py[cod]
